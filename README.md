@@ -4,9 +4,6 @@
 <a href="https://docs.magicblock.gg"><img height="170x" src="https://i.imgur.com/mYinlU7.png" /></a>
 </div>
 A curated list of resources to start building games on Solana. 
-Explore the available tools, frameworks and tutorials to easily get started.
-
-
 
  <h2>Development</h2>
  <h3>Game engine SDKs & libraries</h3>
@@ -29,16 +26,21 @@ Explore the available tools, frameworks and tutorials to easily get started.
 - [Solana Cookbook](https://solanacookbook.com/gaming/intro.html)
 - [Playground Tutorials](https://beta.solpg.io/tutorials/)
 
-## Game Examples
+ <h3>Fully on-chain game examples</h3>
+  - Seven Seas - [Multiplayer real-time PvP pirate ship game (Anchor + Unity)](https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas)
+  - Kamikaze Joe - [Multiplayer real-time pvp arena (Anchor + Unity)](https://github.com/GabrielePicco/Chainstrike)
+  - Tiny adventure - [Hello world game with next js client & wallet adapter](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure)
+  - [On-chain chess (Anchor + Unity)](https://github.com/magicblock-labs/Solana-Unity-Chess)
 
 - [On-chain games examples](https://github.com/solana-developers/solana-game-starter-kits)
-  - [Hello world game with next js client & wallet adapter](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure)
   - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
-    - Video Walkthrough Energy: https://www.youtube.com/watch?v=YYQtRCXJBgs&t=3s&ab_channel=Solana
-    - Video Walkthrough Session Keys: https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana
-  - Idle game using clockwork threads: https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game
-    - Video Walkthrough: https://www.youtube.com/watch?v=ax0Si3Vkvbo&t=252s&ab_channel=Solana
-  - Multiplayer realtime pvp pirate ship game (Anchor + Unity): https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas
+    - [Energy system video walkthrough](https://www.youtube.com/watch?v=YYQtRCXJBgs&t=3s&ab_channel=Solana)
+    - [Session Keys video walkthrough](https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana)
+  - [Idle game using clockwork threads](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
+    - [Video Walkthrough](https://www.youtube.com/watch?v=ax0Si3Vkvbo&t=252s&ab_channel=Solana)
+
+ <h3>Slightly Simple game examples</h3>
+
 
 
 Others
