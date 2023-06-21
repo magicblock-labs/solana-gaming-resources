@@ -7,8 +7,9 @@ A curated list of resources to start building games on Solana.
 Explore the available tools, frameworks and tutorials to easily get started.
 
 
- <h1 align="center">Development</h1>
 
+ <h1>Development</h1>
+ <h2>Game engine SDKs & libraries</h2>
 ## Game engine SDKs & libraries
 
 - [Solana SDK for Unity](https://github.com/magicblock-labs/Solana.Unity-SDK)
