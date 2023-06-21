@@ -1,8 +1,10 @@
+<div align="center">
 # Solana Gaming Resources
 
 <a href="https://docs.magicblock.gg"><img height="170x" src="https://i.imgur.com/mYinlU7.png" /></a>
 
-This repository contains a list of resources for developing games on Solana. Explore the infrastructure, tools as well as example games and tutorials to get started!
+This repository contains a list of resources for developing games on Solana. Explore the tools as well as example games and tutorials to get started!
+</div>
 
 ## Infrastructure & Technical Documentation
 
