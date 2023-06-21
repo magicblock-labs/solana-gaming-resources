@@ -47,8 +47,13 @@ A curated list of resources to start building games on Solana.
   - [Saving Sol in a game for rewards](https://beta.solpg.io/tutorials/tiny-adventure-two)
     - [Video walkthrough](https://www.youtube.com/watch?v=gILXyWvXu7M&t=191s&ab_channel=SolPlay)
 
- <h2>MIscellaneous</h2>
+ <h2>Miscellaneous</h2>
  
+<h3>Programs</h3>
+- [SOAR(Solana On-chain Achievements & Rankings)](https://github.com/magicblock-labs/SOAR) - Register players scores on-chain and automatically reward NFTs
+
+<h3>Art</h3>
+
 <h3>Audio</h3>
 
  - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
