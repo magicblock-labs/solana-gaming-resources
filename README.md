@@ -24,7 +24,7 @@ A curated list of resources to start building games on Solana.
  <h3>Solana Cookbook & playground</h3>
  
 - [Solana Cookbook](https://solanacookbook.com/gaming/intro.html) - list of Solana resources
-- [Playground Tutorials](https://beta.solpg.io/tutorials/) - smart contracts tutorials and development from the browser
+- [Playground Tutorials](https://beta.solpg.io/tutorials/) - smart contracts development from the browser
 
  <h2>Open-source game examples</h2>
  <h3>Fully on-chain games</h3>
