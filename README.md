@@ -69,6 +69,6 @@ A curated list of resources to start building games on Solana.
 <h3>Tools</h3>
 
 - [Datawisp](https://app.datawisp.io/magicblock) - on-chain and off-chain no-code analytics
-- [Datawisp](https://www.sec3.dev/#magicblock) - real-time, on-chain monitoring
+- [Sec3](https://www.sec3.dev/#magicblock) - real-time, on-chain monitoring
 
 
