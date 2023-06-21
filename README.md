@@ -28,12 +28,12 @@ A curated list of resources to start building games on Solana.
 
  <h3>Fully on-chain game examples</h3>
  
-  - Seven Seas - [Multiplayer real-time PvP pirate ship game (Anchor + Unity)](https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas)
-  - Kamikaze Joe - [Multiplayer real-time pvp arena (Anchor + Unity)](https://github.com/GabrielePicco/Chainstrike)
-  - Tiny adventure - [Hello world adventure game (next js client & wallet adapter)](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure)
+  - [Seven Seas](https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas) - Multiplayer real-time PvP pirate ship game (Anchor + Unity)
+  - [Kamikaze Joe](https://github.com/GabrielePicco/Chainstrike) - Multiplayer real-time PvP arena (Anchor + Unity)
+  - [Tiny adventure](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure) - "Hello world" adventure game (next js client & wallet adapter)
     - [Playground](https://beta.solpg.io/tutorials/tiny-adventure)
     - [Video walkthrough](https://www.youtube.com/watch?v=_vQ3bSs3svs&t=976s&ab_channel=SolPlay)
-  - [On-chain chess (Anchor + Unity)](https://github.com/magicblock-labs/Solana-Unity-Chess)
+  - [On-chain chess (Anchor + Unity)](https://github.com/magicblock-labs/Solana-Unity-Chess) - Fully on-chain chess, playable from different clients
   
  <h3>Other examples</h3>
 
@@ -43,7 +43,7 @@ A curated list of resources to start building games on Solana.
     - [Session Keys video walkthrough](https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana)
   - [Idle game using clockwork threads](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
     - [Video Walkthrough](https://www.youtube.com/watch?v=ax0Si3Vkvbo&t=252s&ab_channel=Solana)
-- Saving Sol in a game for rewards: https://beta.solpg.io/tutorials/tiny-adventure-two
+- [Saving Sol in a game for rewards](https://beta.solpg.io/tutorials/tiny-adventure-two)
   - [Video walkthrough](https://www.youtube.com/watch?v=gILXyWvXu7M&t=191s&ab_channel=SolPlay)
 
 
