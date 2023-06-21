@@ -11,12 +11,11 @@ Explore the available tools, frameworks and tutorials to easily get started.
 - [Solana SDK for Unity](https://github.com/magicblock-labs/Solana.Unity-SDK)
    - [Documentation](https://solana.unity-sdk.gg/)
    - [Tutorials]()
-   - Short video
-   - Community/support chat
+   - [Bite-size videos](https://www.youtube.com/@Magicblock-Labs)
+   - [Community/support chat](https://discord.gg/34mAReH8gu)
 - [Solana SDK for UE](https://github.com/staratlasmeta/FoundationKit)
   - [Documenatation](https://github.com/staratlasmeta/FoundationKit/tree/main/Documentation)
   - [Tutorial](https://www.youtube.com/watch?v=S8fm8mFeUkk)
-  - Community/Support chat
 - [Flutter](https://github.com/espresso-cash/espresso-cash-public)
   - [Dart library for Solana](https://github.com/espresso-cash/espresso-cash-public/tree/master/packages/solana)
   - [Community/technical support chat](https://discord.com/invite/wK6WX7974J)
