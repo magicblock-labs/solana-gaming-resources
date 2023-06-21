@@ -24,8 +24,8 @@ Explore the available tools, frameworks and tutorials to easily get started.
   - [Community/technical support](https://discord.com/invite/wK6WX7974J)
 - [Next.js/React + Anchor](https://solanacookbook.com/gaming/game-sdks.html#next-js-react-anchor)
 
-
-## Solana Cookbook & playground
+ <h3>Solana Cookbook & playground</h3>
+ 
 - [Solana Cookbook](https://solanacookbook.com/gaming/intro.html)
 - [Playground Tutorials](https://beta.solpg.io/tutorials/)
 
