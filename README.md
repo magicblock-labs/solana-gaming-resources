@@ -6,7 +6,11 @@
 A curated list of resources to start building games on Solana. 
 Explore the available tools, frameworks and tutorials to easily get started.
 
-## Game engine SDKs & frameworks
+<div align="center">
+ <h1>Solana Gaming Resources</h1>
+</div>div>
+
+## Game engine SDKs & libraries
 
 - [Solana SDK for Unity](https://github.com/magicblock-labs/Solana.Unity-SDK)
    - [Documentation](https://solana.unity-sdk.gg/)
@@ -29,8 +33,8 @@ Explore the available tools, frameworks and tutorials to easily get started.
 ## Game Examples
 
 - [On-chain games examples](https://github.com/solana-developers/solana-game-starter-kits)
-  - Hello world game with next js client and wallet adapter: https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure
-  - Energy system + gum session keys: https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game
+  - [Hello world game with next js client & wallet adapter](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure)
+  - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
     - Video Walkthrough Energy: https://www.youtube.com/watch?v=YYQtRCXJBgs&t=3s&ab_channel=Solana
     - Video Walkthrough Session Keys: https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana
   - Idle game using clockwork threads: https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game
