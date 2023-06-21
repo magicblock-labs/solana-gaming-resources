@@ -51,7 +51,7 @@ A curated list of resources to start building games on Solana.
  
 <h3>Programs</h3>
 
-- [SOAR(Solana On-chain Achievements & Rankings)](https://github.com/magicblock-labs/SOAR) - Register players scores on-chain and automatically reward NFTs
+- [SOAR](https://github.com/magicblock-labs/SOAR) - Solana On-chain Achievements & Rankings
 
 <h3>Art</h3>
 
@@ -66,5 +66,9 @@ A curated list of resources to start building games on Solana.
  - [sfxr](https://sfxr.me/) - game sound effects generator
  - [zzfx](https://killedbyapixel.github.io/ZzFX/) - another game sound effects generator
 
+<h3>Tools</h3>
+
+- [Datawisp](https://app.datawisp.io/magicblock) - on-chain and off-chain no-code analytics
+- [Datawisp](https://www.sec3.dev/#magicblock) - real-time, on-chain monitoring
 
 
