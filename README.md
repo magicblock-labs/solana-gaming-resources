@@ -1,9 +1,8 @@
-# solana-gaming-resources
-A curated list of the best resources, tools and tutorials to get started building games on Solana
-
 # Solana Gaming Resources
 
-This repository contains useful resources for developing blockchain-based games on the Solana platform. Explore these infrastructure and technical documentation, as well as example games and tutorials to get started!
+ <a><img height="170x" src="https://imgur.com/mYinlU7" /></a> 
+
+This repository contains a list of resources for developing games on Solana. Explore the infrastructure, tools as well as example games and tutorials to get started!
 
 ## Infrastructure & Technical Documentation
 
