@@ -39,7 +39,7 @@ A curated list of resources to start building games on Solana.
  <h3>Other examples</h3>
 
 - [Other on-chain games examples](https://github.com/solana-developers/solana-game-starter-kits)
- - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
+  - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
     - [Energy system video walkthrough](https://www.youtube.com/watch?v=YYQtRCXJBgs&t=3s&ab_channel=Solana)
     - [Session Keys video walkthrough](https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana)
  - [Idle game using clockwork threads](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
