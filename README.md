@@ -30,24 +30,20 @@ A curated list of resources to start building games on Solana.
  
   - Seven Seas - [Multiplayer real-time PvP pirate ship game (Anchor + Unity)](https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas)
   - Kamikaze Joe - [Multiplayer real-time pvp arena (Anchor + Unity)](https://github.com/GabrielePicco/Chainstrike)
-  - Tiny adventure - [Hello world game with next js client & wallet adapter](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure)
+  - Tiny adventure - [Hello world adventure game (next js client & wallet adapter)](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure)
+    - [Playground](https://beta.solpg.io/tutorials/tiny-adventure)
+    - [Video walkthrough](https://www.youtube.com/watch?v=_vQ3bSs3svs&t=976s&ab_channel=SolPlay)
   - [On-chain chess (Anchor + Unity)](https://github.com/magicblock-labs/Solana-Unity-Chess)
+  
+ <h3>Other examples</h3>
 
-- [On-chain games examples](https://github.com/solana-developers/solana-game-starter-kits)
+- [Other on-chain games examples](https://github.com/solana-developers/solana-game-starter-kits)
   - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
     - [Energy system video walkthrough](https://www.youtube.com/watch?v=YYQtRCXJBgs&t=3s&ab_channel=Solana)
     - [Session Keys video walkthrough](https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana)
   - [Idle game using clockwork threads](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
     - [Video Walkthrough](https://www.youtube.com/watch?v=ax0Si3Vkvbo&t=252s&ab_channel=Solana)
-
- <h3>Slightly Simple game examples</h3>
-
-
-
-Others
-
-- On-chain Hello World Adventure game: https://beta.solpg.io/tutorials/tiny-adventure
-  - Video Walkthrough: https://www.youtube.com/watch?v=_vQ3bSs3svs&t=976s&ab_channel=SolPlay
 - Saving Sol in a game for rewards: https://beta.solpg.io/tutorials/tiny-adventure-two
-  - Video Walkthrough: https://www.youtube.com/watch?v=gILXyWvXu7M&t=191s&ab_channel=SolPlay
+  - [Video walkthrough](https://www.youtube.com/watch?v=gILXyWvXu7M&t=191s&ab_channel=SolPlay)
+
 
