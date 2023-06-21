@@ -47,4 +47,11 @@ A curated list of resources to start building games on Solana.
   - [Saving Sol in a game for rewards](https://beta.solpg.io/tutorials/tiny-adventure-two)
     - [Video walkthrough](https://www.youtube.com/watch?v=gILXyWvXu7M&t=191s&ab_channel=SolPlay)
 
+ <h2>Audio</h2>
+ - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
+ - Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use open-source 8-bit music making tool
+ - [sfxr](https://sfxr.me/) - game sound effects generator
+ - [zzfx](https://killedbyapixel.github.io/ZzFX/) - another game sound effects generator
+
+
 
