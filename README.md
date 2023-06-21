@@ -50,9 +50,14 @@ A curated list of resources to start building games on Solana.
  <h2>Miscellaneous</h2>
  
 <h3>Programs</h3>
+
 - [SOAR(Solana On-chain Achievements & Rankings)](https://github.com/magicblock-labs/SOAR) - Register players scores on-chain and automatically reward NFTs
 
 <h3>Art</h3>
+
+- [Scenario.gg](https://www.scenario.com/) - AI-generated 2d game assets
+- [Leonardo.ai](https://leonardo.ai/) - AI-generated 2d game assets
+- [Kaedim3D](https://www.kaedim3d.com/) - AI-generated 3d models
 
 <h3>Audio</h3>
 
