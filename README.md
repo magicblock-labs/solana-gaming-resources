@@ -29,8 +29,8 @@ A curated list of resources to start building games on Solana.
  <h2>Open-source game examples</h2>
  <h3>Fully on-chain games</h3>
  
-  - [Seven Seas](https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas)  - Multiplayer real-time PvP pirate ship game (Anchor + Unity)
-  - [Kamikaze Joe](https://github.com/GabrielePicco/Chainstrike) - Multiplayer real-time PvP arena (Anchor + Unity)
+  - [Seven Seas](https://github.com/solana-developers/solana-game-starter-kits/tree/main/seven-seas)  - Multiplayer real-time PvP pirate ship game (Unity + Anchor)
+  - [Kamikaze Joe](https://github.com/GabrielePicco/Chainstrike) - Multiplayer real-time PvP arena (Unity + Anchor)
   - [Tiny adventure](https://github.com/solana-developers/solana-game-starter-kits/tree/main/tiny-adventure) - "Hello world" adventure game (next js client & wallet adapter)
     - [Playground](https://beta.solpg.io/tutorials/tiny-adventure)
     - [Video walkthrough](https://www.youtube.com/watch?v=_vQ3bSs3svs&t=976s&ab_channel=SolPlay)
