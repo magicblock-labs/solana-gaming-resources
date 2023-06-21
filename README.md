@@ -1,5 +1,5 @@
 <div align="center">
-# Solana Gaming Resources
+ <h1>Solana Gaming Resources</h1>
 
 <a href="https://docs.magicblock.gg"><img height="170x" src="https://i.imgur.com/mYinlU7.png" /></a>
 
