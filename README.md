@@ -10,7 +10,7 @@ A curated list of resources to start building games on Solana.
 
 - [Solana SDK for Unity](https://github.com/magicblock-labs/Solana.Unity-SDK)
    - [Documentation](https://solana.unity-sdk.gg/)
-   - [Tutorials]()
+   - [Tutorials](https://docs.magicblock.gg/SolanaUnitySDK/guides/mint-an-nft)
    - [Bite-size videos](https://www.youtube.com/@Magicblock-Labs)
    - [Community/technical support](https://discord.gg/34mAReH8gu)
 - [Solana SDK for UE](https://github.com/staratlasmeta/FoundationKit)
