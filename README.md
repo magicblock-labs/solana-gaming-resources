@@ -50,7 +50,7 @@ A curated list of resources to start building games on Solana.
  <h2>Audio</h2>
  
  - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
- - Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy-to-use open-source 8-bit music-making tool
+ - [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy-to-use open-source 8-bit music-making tool
  - [sfxr](https://sfxr.me/) - game sound effects generator
  - [zzfx](https://killedbyapixel.github.io/ZzFX/) - another game sound effects generator
 
