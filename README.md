@@ -14,7 +14,7 @@ A curated list of resources to start building games on Solana.
    - [Bite-size videos](https://www.youtube.com/@Magicblock-Labs)
    - [Community/technical support](https://discord.gg/34mAReH8gu)
 - [Solana SDK for UE](https://github.com/staratlasmeta/FoundationKit)
-  - [Documenatation](https://github.com/staratlasmeta/FoundationKit/tree/main/Documentation)
+  - [Documentation](https://github.com/staratlasmeta/FoundationKit/tree/main/Documentation)
   - [Tutorial](https://www.youtube.com/watch?v=S8fm8mFeUkk)
 - [Flutter](https://github.com/espresso-cash/espresso-cash-public)
   - [Dart library for Solana](https://github.com/espresso-cash/espresso-cash-public/tree/master/packages/solana)
