@@ -6,9 +6,8 @@
 A curated list of resources to start building games on Solana. 
 Explore the available tools, frameworks and tutorials to easily get started.
 
-<div align="center">
- <h1>Development</h1>
-</div>
+
+ <h1 align="center">Development</h1>
 
 ## Game engine SDKs & libraries
 
