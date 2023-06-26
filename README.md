@@ -52,6 +52,7 @@ A curated list of resources to start building games on Solana.
 <h3>Programs</h3>
 
 - [SOAR](https://github.com/magicblock-labs/SOAR) - Solana On-chain Achievements & Rankings
+- [Bread Heads Gaming Library](https://github.com/Bread-Heads-NFT/breadheads-gaming-library) - Programs built to provide simple primitives for on-chain games.
 
 <h3>Art</h3>
 
