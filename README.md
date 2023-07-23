@@ -20,6 +20,7 @@ A curated list of resources to start building games on Solana.
   - [Dart library for Solana](https://github.com/espresso-cash/espresso-cash-public/tree/master/packages/solana)
   - [Community/technical support](https://discord.com/invite/wK6WX7974J)
 - [Next.js/React + Anchor](https://solanacookbook.com/gaming/game-sdks.html#next-js-react-anchor)
+- [Phaser](https://github.com/Bread-Heads-NFT/phaser-solana-platformer-template)
 
  <h3>Solana Cookbook & playground</h3>
  
