@@ -13,9 +13,13 @@ A curated list of resources to start building games on Solana.
    - [Tutorials](https://docs.magicblock.gg/SolanaUnitySDK/guides/mint-an-nft)
    - [Bite-size videos](https://www.youtube.com/@Magicblock-Labs)
    - [Community/technical support](https://discord.gg/34mAReH8gu)
-- [Solana SDK for UE](https://github.com/staratlasmeta/FoundationKit)
+- [Solana SDK for UE](https://github.com/staratlasmeta/FoundationKit) by Star Atlas
   - [Documentation](https://github.com/staratlasmeta/FoundationKit/tree/main/Documentation)
   - [Tutorial](https://www.youtube.com/watch?v=S8fm8mFeUkk)
+- [Solana SDK for UE](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) by Bifrost Technologies
+  - [Example](https://github.com/kgilliam125/frontier-program)
+- [Godot SDK](https://github.com/Virus-Axel/godot-solana-sdk)
+  - [Demo](https://github.com/ZenRepublic/GodotSolanaSDK)
 - [Flutter](https://github.com/espresso-cash/espresso-cash-public)
   - [Dart library for Solana](https://github.com/espresso-cash/espresso-cash-public/tree/master/packages/solana)
   - [Community/technical support](https://discord.com/invite/wK6WX7974J)
@@ -49,6 +53,11 @@ A curated list of resources to start building games on Solana.
     - [Video walkthrough](https://www.youtube.com/watch?v=gILXyWvXu7M&t=191s&ab_channel=SolPlay)
 
  <h2>Miscellaneous</h2>
+
+<h3>Articles/tweets</h3>
+
+- [Web3 gaming tools](https://github.com/magicblock-labs/SOAR](https://www.helius.dev/blog/gaming-how-solana-is-changing-the-playfield) by Helius
+- [Solana game dev resources](https://x.com/SolPlay_jonas/status/1731776024310903087?s=20) by SolPlay_jonas
  
 <h3>Programs</h3>
 
