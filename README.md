@@ -56,7 +56,7 @@ A curated list of resources to start building games on Solana.
 
 <h3>Articles/tweets</h3>
 
-- [Web3 gaming tools](https://github.com/magicblock-labs/SOAR](https://www.helius.dev/blog/gaming-how-solana-is-changing-the-playfield) by Helius
+- [Web3 gaming tools](https://www.helius.dev/blog/gaming-how-solana-is-changing-the-playfield) by Helius
 - [Solana game dev resources](https://x.com/SolPlay_jonas/status/1731776024310903087?s=20) by SolPlay_jonas
  
 <h3>Programs</h3>
